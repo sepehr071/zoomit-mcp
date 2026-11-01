@@ -1,0 +1,42 @@
+[
+ {
+  "id": "1",
+  "slug": "mobile",
+  "title": "گوشی",
+  "icon": {
+   "name": "Mobile",
+   "id": "6a4e09911a28e314b5d0d41f",
+   "fileName": "mobile"
+  }
+ },
+ {
+  "id": "9",
+  "slug": "laptop",
+  "title": "لپ تاپ",
+  "icon": {
+   "name": "Laptop",
+   "id": "6a4e09aa1a28e314b5d0d6c7",
+   "fileName": "laptop"
+  }
+ },
+ {
+  "id": "3",
+  "slug": "tablet",
+  "title": "تبلت",
+  "icon": {
+   "name": "Tablet",
+   "id": "6a4e099c1a28e314b5d0d533",
+   "fileName": "tablet"
+  }
+ },
+ {
+  "id": "4",
+  "slug": "wearables",
+  "title": "ساعت هوشمند",
+  "icon": {
+   "name": "Wearables",
+   "id": "6a4e09a11a28e314b5d0d5bb",
+   "fileName": "wearables"
+  }
+ }
+]

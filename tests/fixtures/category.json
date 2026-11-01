@@ -1,0 +1,129 @@
+{
+ "category": {
+  "id": "1",
+  "slug": "mobile",
+  "title": "گوشی",
+  "minPrice": 1590000.0,
+  "maxPrice": 750000000.0,
+  "specifications": [
+   {
+    "id": 12459,
+    "title": "رم",
+    "type": "Selectable",
+    "values": [
+     {
+      "label": "3 گیگابایت رم",
+      "value": "1"
+     },
+     {
+      "label": "8 مگابایت رم",
+      "value": "2"
+     },
+     {
+      "label": "512 مگابایت رم",
+      "value": "3"
+     },
+     {
+      "label": "1 گیگابایت رم",
+      "value": "4"
+     },
+     {
+      "label": "256 مگابایت رم",
+      "value": "5"
+     },
+     {
+      "label": "10 گیگابایت رم",
+      "value": "6"
+     },
+     {
+      "label": "12 گیگابایت رم",
+      "value": "7"
+     },
+     {
+      "label": "16 گیگابایت رم",
+      "value": "8"
+     },
+     {
+      "label": "8 گیگابایت رم",
+      "value": "9"
+     },
+     {
+      "label": "4 گیگابایت رم",
+      "value": "10"
+     },
+     {
+      "label": "6 گیگابایت رم",
+      "value": "11"
+     },
+     {
+      "label": "18 گیگابایت رم",
+      "value": "12"
+     }
+    ]
+   },
+   {
+    "id": 12511,
+    "title": "پشتیبانی از 5G",
+    "type": "Selectable",
+    "values": [
+     {
+      "label": "دارد",
+      "value": "Have"
+     },
+     {
+      "label": "ندارد",
+      "value": "HaveNot"
+     }
+    ]
+   }
+  ],
+  "brands": [
+   {
+    "label": "سامسونگ",
+    "value": "samsung"
+   },
+   {
+    "label": "شیائومی",
+    "value": "xiaomi"
+   },
+   {
+    "label": "اپل",
+    "value": "apple"
+   },
+   {
+    "label": "پوکو",
+    "value": "poco"
+   },
+   {
+    "label": "هواوی",
+    "value": "huawei"
+   },
+   {
+    "label": "آنر",
+    "value": "honor"
+   }
+  ],
+  "buyingGuides": [
+   {
+    "id": "6683b825593a320546ff8122",
+    "title": "بهترین گوشی‌های گیمینگ",
+    "defaultSort": "Cheapest"
+   },
+   {
+    "id": "668a46c712358984dbbd3617",
+    "title": "بهترین گوشی‌های شیائومی از نظر دوربین",
+    "defaultSort": "Cheapest"
+   },
+   {
+    "id": "6a82939c605f55586f95df41",
+    "title": "بهترین گوشی برای عکاسی تا ۳۵۰ میلیون تومان",
+    "defaultSort": "Cheapest"
+   },
+   {
+    "id": "6a8293520c42872139e42f12",
+    "title": "بهترین گوشی برای عکاسی تا ۲۵۰ میلیون تومان",
+    "defaultSort": "Cheapest"
+   }
+  ]
+ }
+}

@@ -1,0 +1,308 @@
+{
+ "categoryId": "1",
+ "categoryTitle": "گوشی",
+ "products": [
+  {
+   "id": "172603",
+   "title": "شیائومی 18 پرو مکس",
+   "englishTitle": "Xiaomi 18 Pro Max",
+   "slug": "xiaomi-18-pro-max",
+   "image": null,
+   "zoomitScore": 0.0,
+   "usersScore": 4.8,
+   "minPrice": 347000000.0,
+   "maxPrice": 552300000.0,
+   "specificationCategories": [
+    {
+     "title": "باتری و شارژ",
+     "specifications": [
+      {
+       "id": 12488,
+       "title": "ظرفیت باتری",
+       "type": "SingleSelect",
+       "value": "8500 میلی‌آمپر ساعت"
+      },
+      {
+       "id": 12490,
+       "title": "نوع باتری",
+       "type": "SingleSelect",
+       "value": "سیلیکون کربن"
+      },
+      {
+       "id": 12491,
+       "title": "تعویض‌پذیری باتری",
+       "type": "SingleSelect",
+       "value": "غیر قابل تعویض توسط کاربر"
+      },
+      {
+       "id": 12492,
+       "title": "حداکثر توان شارژ پشتیبانی شده",
+       "type": "SingleSelect",
+       "value": "100 وات"
+      },
+      {
+       "id": 12493,
+       "title": "پشتیبانی از شارژ سریع",
+       "type": "Boolean",
+       "value": "دارد"
+      },
+      {
+       "id": 12494,
+       "title": "پشتیبانی از شارژ بی‌سیم",
+       "type": "Boolean",
+       "value": "دارد"
+      },
+      {
+       "id": 12495,
+       "title": "حداکثر توان شارژ بی‌سیم",
+       "type": "SingleSelect",
+       "value": "50 وات"
+      },
+      {
+       "id": 12497,
+       "title": "سایر ویژگی‌های شارژ و باتری",
+       "type": "MultiSelect",
+       "value": "پشتیبانی از فناوری Power Delivery\nپشتیبانی از فناوری PPS\nپشتیبانی از فناوری +Quick Charge 3\nشارژ معکوس بی‌سیم 27 وات"
+      },
+      {
+       "id": 12498,
+       "title": "درگاه اتصال",
+       "type": "SingleSelect",
+       "value": "USB Type-C 3.2"
+      },
+      {
+       "id": 12499,
+       "title": "پشتیبانی از OTG",
+       "type": "Boolean",
+       "value": "دارد"
+      },
+      {
+       "id": 12500,
+       "title": "سایر مشخصات درگاه‌‌",
+       "type": "MultiSelect",
+       "value": "خروجی ویديو DisplayPort"
+      }
+     ]
+    }
+   ],
+   "keySpecifications": [
+    {
+     "id": 10061,
+     "title": "help-display",
+     "primaryValue": "6.9 اینچ",
+     "secondaryValue": "1208x2624 پیکسل",
+     "desktopIcon": {
+      "name": "mobile-spec1-d",
+      "id": "6a4e09911a28e314b5d0d421",
+      "fileName": "mobile-spec1-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec1-m",
+      "id": "6a4e09911a28e314b5d0d423",
+      "fileName": "mobile-spec1-m"
+     }
+    },
+    {
+     "id": 10062,
+     "title": "help-camera",
+     "primaryValue": "200/50/200 مگاپیکسل",
+     "secondaryValue": "50 مگاپیکسل",
+     "desktopIcon": {
+      "name": "mobile-spec3-d",
+      "id": "6a4e09911a28e314b5d0d425",
+      "fileName": "mobile-spec3-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec3-m",
+      "id": "6a4e09911a28e314b5d0d427",
+      "fileName": "mobile-spec3-m"
+     }
+    },
+    {
+     "id": 10063,
+     "title": "help-expansion",
+     "primaryValue": "12/16 گیگابایت رم",
+     "secondaryValue": "Snapdragon 8 Elite Extreme Gen 6",
+     "desktopIcon": {
+      "name": "mobile-spec2-d",
+      "id": "6a4e09911a28e314b5d0d429",
+      "fileName": "mobile-spec2-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec2-m",
+      "id": "6a4e09911a28e314b5d0d42b",
+      "fileName": "mobile-spec2-m"
+     }
+    },
+    {
+     "id": 10064,
+     "title": "help-battery",
+     "primaryValue": "8500 میلی‌آمپر ساعت",
+     "secondaryValue": "سیلیکون کربن",
+     "desktopIcon": {
+      "name": "mobile-spec4-d",
+      "id": "6a4e09911a28e314b5d0d42d",
+      "fileName": "mobile-spec4-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec4-d-1",
+      "id": "6a4e09911a28e314b5d0d42f",
+      "fileName": "mobile-spec4-d-1"
+     }
+    }
+   ]
+  },
+  {
+   "id": "172602",
+   "title": "شیائومی 18 پرو",
+   "englishTitle": "Xiaomi 18 Pro",
+   "slug": "xiaomi-18-pro",
+   "image": null,
+   "zoomitScore": 0.0,
+   "usersScore": 3.7,
+   "minPrice": 304500000.0,
+   "maxPrice": 314500000.0,
+   "specificationCategories": [
+    {
+     "title": "باتری و شارژ",
+     "specifications": [
+      {
+       "id": 12488,
+       "title": "ظرفیت باتری",
+       "type": "SingleSelect",
+       "value": "7000 میلی‌آمپر ساعت"
+      },
+      {
+       "id": 12490,
+       "title": "نوع باتری",
+       "type": "SingleSelect",
+       "value": "سیلیکون کربن"
+      },
+      {
+       "id": 12491,
+       "title": "تعویض‌پذیری باتری",
+       "type": "SingleSelect",
+       "value": "غیر قابل تعویض توسط کاربر"
+      },
+      {
+       "id": 12492,
+       "title": "حداکثر توان شارژ پشتیبانی شده",
+       "type": "SingleSelect",
+       "value": "100 وات"
+      },
+      {
+       "id": 12493,
+       "title": "پشتیبانی از شارژ سریع",
+       "type": "Boolean",
+       "value": "دارد"
+      },
+      {
+       "id": 12494,
+       "title": "پشتیبانی از شارژ بی‌سیم",
+       "type": "Boolean",
+       "value": "دارد"
+      },
+      {
+       "id": 12495,
+       "title": "حداکثر توان شارژ بی‌سیم",
+       "type": "SingleSelect",
+       "value": "50 وات"
+      },
+      {
+       "id": 12497,
+       "title": "سایر ویژگی‌های شارژ و باتری",
+       "type": "MultiSelect",
+       "value": "پشتیبانی از فناوری Power Delivery\nپشتیبانی از فناوری PPS\nپشتیبانی از فناوری +Quick Charge 3\nشارژ معکوس بی‌سیم 27 وات"
+      },
+      {
+       "id": 12498,
+       "title": "درگاه اتصال",
+       "type": "SingleSelect",
+       "value": "USB Type-C 3.2"
+      },
+      {
+       "id": 12499,
+       "title": "پشتیبانی از OTG",
+       "type": "Boolean",
+       "value": "دارد"
+      },
+      {
+       "id": 12500,
+       "title": "سایر مشخصات درگاه‌‌",
+       "type": "MultiSelect",
+       "value": "خروجی ویديو DisplayPort"
+      }
+     ]
+    }
+   ],
+   "keySpecifications": [
+    {
+     "id": 10061,
+     "title": "help-display",
+     "primaryValue": "6.4 اینچ",
+     "secondaryValue": "1120x2436 پیکسل",
+     "desktopIcon": {
+      "name": "mobile-spec1-d",
+      "id": "6a4e09911a28e314b5d0d421",
+      "fileName": "mobile-spec1-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec1-m",
+      "id": "6a4e09911a28e314b5d0d423",
+      "fileName": "mobile-spec1-m"
+     }
+    },
+    {
+     "id": 10062,
+     "title": "help-camera",
+     "primaryValue": "200/50/200 مگاپیکسل",
+     "secondaryValue": "سلفی 50 مگاپیکسل",
+     "desktopIcon": {
+      "name": "mobile-spec3-d",
+      "id": "6a4e09911a28e314b5d0d425",
+      "fileName": "mobile-spec3-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec3-m",
+      "id": "6a4e09911a28e314b5d0d427",
+      "fileName": "mobile-spec3-m"
+     }
+    },
+    {
+     "id": 10063,
+     "title": "help-expansion",
+     "primaryValue": "12/16 گیگابایت رم",
+     "secondaryValue": "Snapdragon 8 Elite Gen 6",
+     "desktopIcon": {
+      "name": "mobile-spec2-d",
+      "id": "6a4e09911a28e314b5d0d429",
+      "fileName": "mobile-spec2-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec2-m",
+      "id": "6a4e09911a28e314b5d0d42b",
+      "fileName": "mobile-spec2-m"
+     }
+    },
+    {
+     "id": 10064,
+     "title": "help-battery",
+     "primaryValue": "7000 میلی‌آمپر ساعت",
+     "secondaryValue": "سیلیکون کربن",
+     "desktopIcon": {
+      "name": "mobile-spec4-d",
+      "id": "6a4e09911a28e314b5d0d42d",
+      "fileName": "mobile-spec4-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec4-d-1",
+      "id": "6a4e09911a28e314b5d0d42f",
+      "fileName": "mobile-spec4-d-1"
+     }
+    }
+   ]
+  }
+ ],
+ "specificationGroupHeaders": [],
+ "benchmarkGroups": []
+}

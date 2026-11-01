@@ -1,0 +1,445 @@
+{
+ "product": {
+  "id": "150546",
+  "info": {
+   "title": "گلکسی اس 26 اولترا سامسونگ",
+   "englishTitle": "Samsung Galaxy S26 Ultra",
+   "slug": "samsung-galaxy-s26-ultra",
+   "brand": {
+    "id": "33178",
+    "title": "سامسونگ",
+    "englishTitle": "Samsung",
+    "slug": "samsung"
+   },
+   "category": {
+    "id": "1",
+    "title": "گوشی",
+    "englishTitle": "mobile",
+    "slug": "mobile"
+   },
+   "priorityRelatedProducts": [],
+   "globalAvailabilityZone": "Supplied",
+   "specificationCategories": [
+    {
+     "title": "اطلاعات پایه",
+     "specifications": [
+      {
+       "id": 12425,
+       "title": "مدل‌‌ نامبرها",
+       "type": "Text",
+       "value": "SM-S948B\nSM-S948B/DS\nSM-S948U\nSM-S948U1\nSM-S948W\nSM-S948N\nSM-S9480\nSM-S948E\nSM-S948E/DS"
+      },
+      {
+       "id": 12426,
+       "title": "حدود قیمت در زمان عرضه",
+       "type": "Text",
+       "value": "حدود 1300 دلار"
+      },
+      {
+       "id": 12427,
+       "title": "تاریخ معرفی",
+       "type": "Text",
+       "value": "26 فوریه 2026"
+      },
+      {
+       "id": 12428,
+       "title": "وضعیت عرضه",
+       "type": "SingleSelect",
+       "value": "عرضه شده"
+      },
+      {
+       "id": 12429,
+       "title": "تاریخ عرضه",
+       "type": "Text",
+       "value": "11 مارس 2026"
+      }
+     ]
+    },
+    {
+     "title": "طراحی",
+     "specifications": [
+      {
+       "id": 12435,
+       "title": "ابعاد",
+       "type": "Text",
+       "value": "163.6 در 78.1 در 7.9 میلی‌متر"
+      },
+      {
+       "id": 12436,
+       "title": "وزن",
+       "type": "Text",
+       "value": "214 گرم"
+      },
+      {
+       "id": 12437,
+       "title": "جنس پشت",
+       "type": "MultiSelect",
+       "value": "شیشه - گوریلا گلس Victus 2"
+      },
+      {
+       "id": 12438,
+       "title": "جنس جلو",
+       "type": "SingleSelect",
+       "value": "شیشه - گوریلا گلس Armor 2"
+      },
+      {
+       "id": 12439,
+       "title": "جنس فریم",
+       "type": "SingleSelect",
+       "value": "فلز - آلومینیوم"
+      }
+     ]
+    },
+    {
+     "title": "نمایشگر",
+     "specifications": [
+      {
+       "id": 12441,
+       "title": "ابعاد نمایشگر",
+       "type": "SingleSelect",
+       "value": "6.9 اینچ"
+      },
+      {
+       "id": 12442,
+       "title": "نوع نمایشگر",
+       "type": "SingleSelect",
+       "value": "Dynamic LTPO AMOLED 2X"
+      },
+      {
+       "id": 12443,
+       "title": "حداکثر نرخ نوسازی (Refresh Rate)",
+       "type": "SingleSelect",
+       "value": "120 هرتز"
+      },
+      {
+       "id": 12444,
+       "title": "رزولوشن",
+       "type": "SingleSelect",
+       "value": "1440 در 3120 پیکسل"
+      },
+      {
+       "id": 12445,
+       "title": "تراکم پیکسلی",
+       "type": "SingleSelect",
+       "value": "~500 پیکسل در اینچ"
+      }
+     ]
+    }
+   ],
+   "keySpecifications": [
+    {
+     "id": 10061,
+     "title": "help-display",
+     "primaryValue": "6.9 اینچ",
+     "secondaryValue": "1440x3120 پیکسل",
+     "desktopIcon": {
+      "name": "mobile-spec1-d",
+      "id": "6a4e09911a28e314b5d0d421",
+      "fileName": "mobile-spec1-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec1-m",
+      "id": "6a4e09911a28e314b5d0d423",
+      "fileName": "mobile-spec1-m"
+     }
+    },
+    {
+     "id": 10062,
+     "title": "help-camera",
+     "primaryValue": "200/50/50/10 مگاپیکسل",
+     "secondaryValue": "سلفی 12 مگاپیکسل",
+     "desktopIcon": {
+      "name": "mobile-spec3-d",
+      "id": "6a4e09911a28e314b5d0d425",
+      "fileName": "mobile-spec3-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec3-m",
+      "id": "6a4e09911a28e314b5d0d427",
+      "fileName": "mobile-spec3-m"
+     }
+    },
+    {
+     "id": 10063,
+     "title": "help-expansion",
+     "primaryValue": "12/16 گیگابایت رم",
+     "secondaryValue": "Snapdragon 8 Elite Gen 5",
+     "desktopIcon": {
+      "name": "mobile-spec2-d",
+      "id": "6a4e09911a28e314b5d0d429",
+      "fileName": "mobile-spec2-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec2-m",
+      "id": "6a4e09911a28e314b5d0d42b",
+      "fileName": "mobile-spec2-m"
+     }
+    },
+    {
+     "id": 10064,
+     "title": "help-battery",
+     "primaryValue": "5000 میلی‌آمپر ساعت",
+     "secondaryValue": "لیتیوم یونی",
+     "desktopIcon": {
+      "name": "mobile-spec4-d",
+      "id": "6a4e09911a28e314b5d0d42d",
+      "fileName": "mobile-spec4-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec4-d-1",
+      "id": "6a4e09911a28e314b5d0d42f",
+      "fileName": "mobile-spec4-d-1"
+     }
+    }
+   ],
+   "overview": {
+    "reviewArticleUrl": "https://www.zoomit.ir/mobile-review/458878-samsung-galaxy-s26-ultra-review/",
+    "pros": "نمایشگر نوآورانه‌ی حریم خصوصی\nبدنه‌ی باریک‌تر، سبک‌تر و ارگونومی بهبودیافته\nکاربردی‌ترین قابلیت‌های هوش مصنوعی در میان رقبا\nلرزش‌گیر ویدیویی بسیار کارآمد و پشتیبانی از قفل افق\nقدرت پردازشی خیره‌کننده‌ی اسنپدراگون ۸ الیت نسل ۵\nطلسم‌شکنی سامسونگ و پشتیبانی از شارژ سریع ۶۰ واتی\nپیشرفت عملکرد فیلم‌برداری با قابلیت‌های حرفه‌ای و کاربردی",
+    "cons": "ظرفیت کمتر از رقبا به‌دلیل استفاده‌نکردن از باتری‌های سیلیکون‌کربن\nبرآمدگی بیش‌ازحد جزیره‌ی دوربین و لق‌خوردن شدید گوشی روی میز\nنمایشگر ضعیف‌تر از رقبا با پنل ۸بیتی و بدون PWM فرکانس‌بالا\nافت محسوس توان پردازشی تحت فشارهای سنگین و مداوم\nسخت‌افزار دوربین ضعیف‌تر از رقبا با حسگرهای قدیمی\nفقدان اتصال مغناطیسی درون بدنه برای شارژ بی‌سیم",
+    "score": 4.0,
+    "readingTime": 8,
+    "wordCount": 1863
+   },
+   "benchmarkGroups": [],
+   "commentSettings": {
+    "isCommentEnabled": true,
+    "defaultSorting": "MostLike"
+   },
+   "isFeatured": false,
+   "isArchived": false,
+   "publishedAt": "2025-09-06T10:39:53.749Z"
+  },
+  "stores": {
+   "totalCount": 42,
+   "maxPrice": 602000000.0,
+   "minPrice": 247900000.0,
+   "inStock": true,
+   "items": [
+    {
+     "storeLinkId": "6a041e28ba69cf5e85a7379b",
+     "storeId": "476",
+     "storeTitle": "آل موبایل",
+     "storeLogo": {},
+     "city": "همدان",
+     "isAdvertisement": true,
+     "url": "https://allmobile.ir/product/گوشی-موبایل-سامسونگ-مدل-galaxy-s26-ultra-حافظه-256/?utm_source=ZoomitProduct&utm_medium=PriceList",
+     "purchaseItems": [
+      {
+       "price": 257000000.0,
+       "color": "",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 257000000.0,
+       "color": "",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 258000000.0,
+       "color": "",
+       "registry": false,
+       "guarantee": ""
+      }
+     ],
+     "userReviewsInfo": {
+      "averageScore": 3.0,
+      "usersCount": 1
+     },
+     "productCondition": "New"
+    },
+    {
+     "storeLinkId": "6a76d5bd861218aac06a68f7",
+     "storeId": "817",
+     "storeTitle": "کی جی کالا",
+     "storeLogo": {},
+     "city": "تهران",
+     "isAdvertisement": true,
+     "url": "https://kgkala.ir/product/samsung-galaxy-s26-ultra-256g-12g-vietna-non/?utm_source=ZoomitProduct&utm_medium=PriceList",
+     "purchaseItems": [
+      {
+       "price": 252000000.0,
+       "color": "آبی کمرنگ",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 252000000.0,
+       "color": "بنفش تیره",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 254000000.0,
+       "color": "سفید",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 254000000.0,
+       "color": "مشکی",
+       "registry": false,
+       "guarantee": ""
+      }
+     ],
+     "userReviewsInfo": {
+      "averageScore": 0.0,
+      "usersCount": 0
+     },
+     "productCondition": "New"
+    },
+    {
+     "storeLinkId": "6ae08e06a6610e6866d5f97f",
+     "storeId": "860",
+     "storeTitle": "سیب کالا",
+     "storeLogo": {},
+     "city": "بانه",
+     "isAdvertisement": false,
+     "url": "https://www.sibkala.com/product/s26-ultra-256?utm_source=ZoomitProduct&utm_medium=PriceList",
+     "purchaseItems": [
+      {
+       "price": 247900000.0,
+       "color": "بنفش",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 253000000.0,
+       "color": "سفید",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 253000000.0,
+       "color": "مشکی",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 255000000.0,
+       "color": "آبی",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 380500000.0,
+       "color": "بنفش",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 389850000.0,
+       "color": "آبی",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 389900000.0,
+       "color": "سفید",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 392800000.0,
+       "color": "مشکی",
+       "registry": false,
+       "guarantee": ""
+      }
+     ],
+     "userReviewsInfo": {
+      "averageScore": 0.0,
+      "usersCount": 0
+     },
+     "productCondition": "New"
+    },
+    {
+     "storeLinkId": "6a6ee8df6d7b3375a681a7c5",
+     "storeId": "241",
+     "storeTitle": "آترین کالا",
+     "storeLogo": {},
+     "city": "تهران",
+     "isAdvertisement": false,
+     "url": "https://www.atrinkala.com/samsung-galaxy-s26-ultra-256gb?utm_source=zoomit&utm_medium=PriceList",
+     "purchaseItems": [
+      {
+       "price": 248600000.0,
+       "priceBeforeDiscount": 248600000.0,
+       "color": "",
+       "registry": false,
+       "guarantee": ""
+      }
+     ],
+     "userReviewsInfo": {
+      "averageScore": 5.0,
+      "usersCount": 1
+     },
+     "productCondition": "New"
+    }
+   ],
+   "physicalStores": [
+    {
+     "id": "6a7c21ae683299b4a327d293",
+     "isHybridStore": true,
+     "storeId": "796",
+     "storeSlug": "jaamstore",
+     "storeTitle": " جم استور ",
+     "guarantee": "",
+     "cover": {
+      "id": "6a2418b3c609d830349e7cfa",
+      "alt": "جم استور",
+      "fileName": "",
+      "preview": "",
+      "width": 300,
+      "height": 300
+     },
+     "addressDescription": "خیابان فردوسی / جنب بانک صادرات / فروشگاه همراه جم",
+     "city": "اصفهان",
+     "userReviewsInfo": {
+      "averageScore": 4.0,
+      "usersCount": 1
+     },
+     "price": 410000000.0,
+     "hasOutdatedPrice": false
+    }
+   ],
+   "totalPhysicalStoresCount": 4
+  },
+  "userReviewsInfo": {
+   "averageScore": 4.2,
+   "usersCount": 207
+  },
+  "discussionInfo": {
+   "totalFeedbackCount": 341
+  },
+  "relatedProductsChips": {
+   "hasSimilarPrice": true,
+   "hasSimilarSpecification": false,
+   "hasSimilarBrand": true,
+   "hasMostCompared": true
+  },
+  "buyingGuides": [
+   {
+    "id": "665b0b609a182a3e7ef2b503",
+    "title": "بهترین گوشی‌های سامسونگ",
+    "defaultSort": "Cheapest"
+   },
+   {
+    "id": "6683b825593a320546ff8122",
+    "title": "بهترین گوشی‌های گیمینگ",
+    "defaultSort": "Cheapest"
+   },
+   {
+    "id": "6a8293520c42872139e42f12",
+    "title": "بهترین گوشی برای عکاسی تا ۲۵۰ میلیون تومان",
+    "defaultSort": "Cheapest"
+   },
+   {
+    "id": "6a8f09ee2b4f24913bbdca96",
+    "title": "بهترین گوشی‌های بازار ایران بدون درنظر گرفتن قیمت",
+    "defaultSort": "Cheapest"
+   }
+  ],
+  "hasPriceChart": true
+ }
+}

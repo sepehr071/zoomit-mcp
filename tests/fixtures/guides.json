@@ -1,0 +1,88 @@
+{
+ "source": [
+  {
+   "id": "6665467a6175ce15c133b48b",
+   "title": "بهترین گوشی‌های میان‌رده",
+   "updatedAt": "2026-10-31T20:56:56.0729833Z",
+   "articleUrl": "https://www.zoomit.ir/buying-guide/405613-best-midrange-phones/",
+   "image": {
+    "id": "67617df0bc69cb1c545be04f",
+    "alt": "بهترین گوشی های میان رده بازار ",
+    "fileName": "best-midrange-phones",
+    "width": 1920,
+    "height": 1280
+   },
+   "productCount": 11,
+   "priceBand": {
+    "minimum": {
+     "amount": 84000000.0,
+     "currency": "IRT"
+    },
+    "maximum": {
+     "amount": 181800000.0,
+     "currency": "IRT"
+    }
+   },
+   "groups": [
+    {
+     "title": "بهترین گوشی‌های میان‌رده",
+     "priceBand": {
+      "minimum": {
+       "amount": 84000000.0,
+       "currency": "IRT"
+      },
+      "maximum": {
+       "amount": 181800000.0,
+       "currency": "IRT"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "6683b825593a320546ff8122",
+   "title": "بهترین گوشی‌های گیمینگ",
+   "updatedAt": "2026-10-23T18:26:39.8309565Z",
+   "articleUrl": "https://www.zoomit.ir/buying-guide/370770-best-gaming-smartphone-buying-guide/",
+   "image": {
+    "id": "6ada5db91d07f08d25c6595d",
+    "alt": "گوشی‌های سامسونگ (Samsung)، ردمجیک (RedMagic) و پوکو (Poco) در کنار شخصیت‌های بازی‌های اکشن",
+    "fileName": "best-gaming-smartphones-comparison",
+    "width": 1920,
+    "height": 1280
+   },
+   "productCount": 10,
+   "priceBand": {
+    "minimum": {
+     "amount": 103444400.0,
+     "currency": "IRT"
+    },
+    "maximum": {
+     "amount": 300000000.0,
+     "currency": "IRT"
+    }
+   },
+   "groups": [
+    {
+     "title": "بهترین گوشی‌های گیمینگ بازار",
+     "priceBand": {
+      "minimum": {
+       "amount": 103444400.0,
+       "currency": "IRT"
+      },
+      "maximum": {
+       "amount": 300000000.0,
+       "currency": "IRT"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "currentPage": 1,
+ "totalPages": 5,
+ "pageSize": 8,
+ "totalCount": 37,
+ "hasPrevious": false,
+ "hasNext": true
+}

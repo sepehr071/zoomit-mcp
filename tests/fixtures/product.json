@@ -1,0 +1,420 @@
+{
+ "product": {
+  "id": "146185",
+  "info": {
+   "title": "آیفون 17 پرو اپل",
+   "englishTitle": "Apple iPhone 17 Pro",
+   "slug": "apple-iphone-17-pro",
+   "brand": {
+    "id": "32450",
+    "title": "اپل",
+    "englishTitle": "Apple",
+    "slug": "apple"
+   },
+   "category": {
+    "id": "1",
+    "title": "گوشی",
+    "englishTitle": "mobile",
+    "slug": "mobile"
+   },
+   "priorityRelatedProducts": [],
+   "globalAvailabilityZone": "Supplied",
+   "specificationCategories": [
+    {
+     "title": "اطلاعات پایه",
+     "specifications": [
+      {
+       "id": 12425,
+       "title": "مدل‌‌ نامبرها",
+       "type": "Text",
+       "value": "A3523 (جهانی)\nA3256 (ایالات متحده)\nA3522 (خاورمیانه، کانادا و مکزیک)\nA3524 (چین و هنگ کنگ)"
+      },
+      {
+       "id": 12426,
+       "title": "حدود قیمت در زمان عرضه",
+       "type": "Text",
+       "value": "حدود 1100 دلار"
+      },
+      {
+       "id": 12427,
+       "title": "تاریخ معرفی",
+       "type": "Text",
+       "value": "9 سپتامبر 2025"
+      },
+      {
+       "id": 12428,
+       "title": "وضعیت عرضه",
+       "type": "SingleSelect",
+       "value": "عرضه شده"
+      },
+      {
+       "id": 12429,
+       "title": "تاریخ عرضه",
+       "type": "Text",
+       "value": "19 سپتامبر 2025"
+      }
+     ]
+    },
+    {
+     "title": "طراحی",
+     "specifications": [
+      {
+       "id": 12435,
+       "title": "ابعاد",
+       "type": "Text",
+       "value": "150 در 71.9 در 8.75 میلی‌متر"
+      },
+      {
+       "id": 12436,
+       "title": "وزن",
+       "type": "Text",
+       "value": "206 گرم"
+      },
+      {
+       "id": 12437,
+       "title": "جنس پشت",
+       "type": "MultiSelect",
+       "value": "فلز - آلومینیوم\nشیشه - سرامیک شیلد"
+      },
+      {
+       "id": 12438,
+       "title": "جنس جلو",
+       "type": "SingleSelect",
+       "value": "شیشه - سرامیک شیلد 2"
+      },
+      {
+       "id": 12439,
+       "title": "جنس فریم",
+       "type": "SingleSelect",
+       "value": "فلز - آلومینیوم"
+      }
+     ]
+    },
+    {
+     "title": "نمایشگر",
+     "specifications": [
+      {
+       "id": 12441,
+       "title": "ابعاد نمایشگر",
+       "type": "SingleSelect",
+       "value": "6.3 اینچ"
+      },
+      {
+       "id": 12442,
+       "title": "نوع نمایشگر",
+       "type": "SingleSelect",
+       "value": "LTPO Super Retina XDR OLED"
+      },
+      {
+       "id": 12443,
+       "title": "حداکثر نرخ نوسازی (Refresh Rate)",
+       "type": "SingleSelect",
+       "value": "120 هرتز"
+      },
+      {
+       "id": 12444,
+       "title": "رزولوشن",
+       "type": "SingleSelect",
+       "value": "1206 در 2622 پیکسل"
+      },
+      {
+       "id": 12445,
+       "title": "تراکم پیکسلی",
+       "type": "SingleSelect",
+       "value": "~460 پیکسل در اینچ"
+      }
+     ]
+    }
+   ],
+   "keySpecifications": [
+    {
+     "id": 10061,
+     "title": "help-display",
+     "primaryValue": "6.3 اینچ",
+     "secondaryValue": "1206x2622 پیکسل",
+     "desktopIcon": {
+      "name": "mobile-spec1-d",
+      "id": "6a4e09911a28e314b5d0d421",
+      "fileName": "mobile-spec1-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec1-m",
+      "id": "6a4e09911a28e314b5d0d423",
+      "fileName": "mobile-spec1-m"
+     }
+    },
+    {
+     "id": 10062,
+     "title": "help-camera",
+     "primaryValue": "48/48/48 مگاپیکسل",
+     "secondaryValue": "سلفی 18 مگاپیکسل",
+     "desktopIcon": {
+      "name": "mobile-spec3-d",
+      "id": "6a4e09911a28e314b5d0d425",
+      "fileName": "mobile-spec3-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec3-m",
+      "id": "6a4e09911a28e314b5d0d427",
+      "fileName": "mobile-spec3-m"
+     }
+    },
+    {
+     "id": 10063,
+     "title": "help-expansion",
+     "primaryValue": "12 گیگابایت رم",
+     "secondaryValue": "Apple A19 Pro",
+     "desktopIcon": {
+      "name": "mobile-spec2-d",
+      "id": "6a4e09911a28e314b5d0d429",
+      "fileName": "mobile-spec2-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec2-m",
+      "id": "6a4e09911a28e314b5d0d42b",
+      "fileName": "mobile-spec2-m"
+     }
+    },
+    {
+     "id": 10064,
+     "title": "help-battery",
+     "primaryValue": "3988 میلی‌آمپر ساعت",
+     "secondaryValue": "لیتیوم‌ یونی",
+     "desktopIcon": {
+      "name": "mobile-spec4-d",
+      "id": "6a4e09911a28e314b5d0d42d",
+      "fileName": "mobile-spec4-d"
+     },
+     "mobileIcon": {
+      "name": "mobile-spec4-d-1",
+      "id": "6a4e09911a28e314b5d0d42f",
+      "fileName": "mobile-spec4-d-1"
+     }
+    }
+   ],
+   "overview": {
+    "reviewArticleUrl": "https://www.zoomit.ir/mobile-review/448957-apple-iphone-17-pro-max-review/",
+    "pros": "شارژدهی عالی\nافزایش سرعت شارژدهی به ۴۰ وات\nنمایشگر HDR با تجربه‌ی بصری حیرت‌انگیز\nدوربین سلفی مربعی باکیفیت و بسیار کاربردی\nفیلم‌برداری عالی با انبوهی از قابلیت‌های حرفه‌ای\nتجربه‌ی عکاسی پایدار و قابل اتکا؛ اما نه بی‌رقیب\nعملکرد پایدار و دمای متعادل در پردازش‌های سنگین",
+    "cons": "طراحی بسیار بحث‌برانگیز\nقیمت فضایی در بازار ایران\nوجود رقبایی با دوربین تله‌فوتوی کارآمدتر\nحس‌وحال آلومینیوم به‌اندازه‌ی تیتانیوم پریمیوم نیست",
+    "score": 4.0,
+    "readingTime": 7,
+    "wordCount": 1623
+   },
+   "benchmarkGroups": [],
+   "commentSettings": {
+    "isCommentEnabled": true,
+    "defaultSorting": "MostLike"
+   },
+   "isFeatured": false,
+   "isArchived": false,
+   "publishedAt": "2025-06-22T09:25:05.445Z"
+  },
+  "stores": {
+   "totalCount": 18,
+   "maxPrice": 744620400.0,
+   "minPrice": 327060000.0,
+   "inStock": true,
+   "items": [
+    {
+     "storeLinkId": "692ae70c77170cb68add695c",
+     "storeId": "1",
+     "storeTitle": "دیجی کالا",
+     "storeLogo": {},
+     "city": "تهران",
+     "isAdvertisement": true,
+     "url": "https://www.digikala.com/product/dkp-20125739/?utm_source=ZoomitProduct&utm_medium=PriceList",
+     "purchaseItems": [
+      {
+       "price": 599990000.0
+      }
+     ],
+     "userReviewsInfo": {
+      "averageScore": 3.7,
+      "usersCount": 9
+     },
+     "productCondition": "New"
+    },
+    {
+     "storeLinkId": "6ae1ddc4913717b38d5b6235",
+     "storeId": "850",
+     "storeTitle": "اسمارت کالا",
+     "storeLogo": {},
+     "city": "تهران",
+     "isAdvertisement": false,
+     "url": "https://smartkalaa.com/product/iphone-17-pro-za-256gb/?utm_source=ZoomitProduct&utm_medium=PriceList",
+     "purchaseItems": [
+      {
+       "price": 327060000.0,
+       "color": "نارنجی",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 340860000.0,
+       "color": "آبی تیره",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 340860000.0,
+       "color": "نقره ای",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 728194950.0,
+       "color": "نارنجی",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 739145250.0,
+       "color": "نقره ای",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 744620400.0,
+       "color": "آبی تیره",
+       "registry": false,
+       "guarantee": ""
+      }
+     ],
+     "userReviewsInfo": {
+      "averageScore": 0.0,
+      "usersCount": 0
+     },
+     "productCondition": "New"
+    },
+    {
+     "storeLinkId": "6a76d9baf365fd33dce1062f",
+     "storeId": "817",
+     "storeTitle": "کی جی کالا",
+     "storeLogo": {},
+     "city": "تهران",
+     "isAdvertisement": false,
+     "url": "https://kgkala.ir/product/apple-iphone-17-pro-256tb-12gb-zaa-n/?utm_source=ZoomitProduct&utm_medium=PriceList",
+     "purchaseItems": [
+      {
+       "price": 350000000.0,
+       "color": "نارنجی",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 360000000.0,
+       "color": "سرمه ای",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 360000000.0,
+       "color": "سفید",
+       "registry": false,
+       "guarantee": ""
+      }
+     ],
+     "userReviewsInfo": {
+      "averageScore": 0.0,
+      "usersCount": 0
+     },
+     "productCondition": "New"
+    },
+    {
+     "storeLinkId": "6a65e3c3037829a99c0dcebb",
+     "storeId": "817",
+     "storeTitle": "کی جی کالا",
+     "storeLogo": {},
+     "city": "تهران",
+     "isAdvertisement": false,
+     "url": "https://kgkala.ir/product/apple-iphone-17-pro-256gb-12gb-cha-not-reg3/?utm_source=ZoomitProduct&utm_medium=PriceList",
+     "purchaseItems": [
+      {
+       "price": 352000000.0,
+       "color": "نارنجی",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 358000000.0,
+       "color": "سفید",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 537000000.0,
+       "color": "نارنجی",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 545000000.0,
+       "color": "سفید",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 567000000.0,
+       "color": "نارنجی",
+       "registry": false,
+       "guarantee": ""
+      },
+      {
+       "price": 575000000.0,
+       "color": "سفید",
+       "registry": false,
+       "guarantee": ""
+      }
+     ],
+     "userReviewsInfo": {
+      "averageScore": 0.0,
+      "usersCount": 0
+     },
+     "productCondition": "New"
+    }
+   ],
+   "physicalStores": [
+    {
+     "id": "6a30f6191d7aecbbe9704913",
+     "isHybridStore": true,
+     "storeId": "27",
+     "storeSlug": "iphonechi",
+     "storeTitle": "آیفونچی",
+     "guarantee": "با گارانتی شرکتی",
+     "cover": {
+      "id": "6a30f7ecba65f255ec2e1d43",
+      "alt": "آیفونچی",
+      "fileName": "",
+      "preview": "",
+      "width": 300,
+      "height": 300
+     },
+     "addressDescription": "تهران خیابان میرداماد، مجتمع کامپیوتر پایتخت، طبقه دوم، واحد 306",
+     "city": "تهران",
+     "userReviewsInfo": {
+      "averageScore": 0.0,
+      "usersCount": 0
+     },
+     "price": 559000000.0,
+     "hasOutdatedPrice": false
+    }
+   ],
+   "totalPhysicalStoresCount": 3
+  },
+  "userReviewsInfo": {
+   "averageScore": 4.1,
+   "usersCount": 68
+  },
+  "discussionInfo": {
+   "totalFeedbackCount": 67
+  },
+  "relatedProductsChips": {
+   "hasSimilarPrice": true,
+   "hasSimilarSpecification": false,
+   "hasSimilarBrand": true,
+   "hasMostCompared": true
+  },
+  "buyingGuides": [],
+  "hasPriceChart": true
+ }
+}

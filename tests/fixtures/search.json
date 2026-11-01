@@ -1,0 +1,306 @@
+{
+ "products": {
+  "source": [
+   {
+    "id": "146184",
+    "title": "آیفون 17 پرو مکس اپل",
+    "englishTitle": "Apple iPhone 17 Pro Max",
+    "slug": "apple-iphone-17-pro-max",
+    "image": {
+     "id": "68c0797d2e4b43cec3e90539",
+     "alt": "گوشی موبایل اپل آیفون 17 پرو مکس رنگ نارنجی نمای جلو و پشت Apple iPhone 17 Pro Max",
+     "fileName": "apple-iphone-17-pro-max-orange-front-and-back",
+     "preview": "",
+     "width": 3000,
+     "height": 2000
+    },
+    "score": 2.7,
+    "keySpecifications": [
+     {
+      "id": 10061,
+      "title": "help-display",
+      "primaryValue": "6.9 اینچ",
+      "secondaryValue": "1320x2868 پیکسل",
+      "desktopIcon": {
+       "name": "mobile-spec1-d",
+       "id": "6a4e09911a28e314b5d0d421",
+       "fileName": "mobile-spec1-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec1-m",
+       "id": "6a4e09911a28e314b5d0d423",
+       "fileName": "mobile-spec1-m"
+      }
+     },
+     {
+      "id": 10062,
+      "title": "help-camera",
+      "primaryValue": "48/48/48 مگاپیکسل",
+      "secondaryValue": "سلفی 18 مگاپیکسل",
+      "desktopIcon": {
+       "name": "mobile-spec3-d",
+       "id": "6a4e09911a28e314b5d0d425",
+       "fileName": "mobile-spec3-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec3-m",
+       "id": "6a4e09911a28e314b5d0d427",
+       "fileName": "mobile-spec3-m"
+      }
+     },
+     {
+      "id": 10063,
+      "title": "help-expansion",
+      "primaryValue": "12 گیگابایت رم",
+      "secondaryValue": "Apple A19 Pro",
+      "desktopIcon": {
+       "name": "mobile-spec2-d",
+       "id": "6a4e09911a28e314b5d0d429",
+       "fileName": "mobile-spec2-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec2-m",
+       "id": "6a4e09911a28e314b5d0d42b",
+       "fileName": "mobile-spec2-m"
+      }
+     },
+     {
+      "id": 10064,
+      "title": "help-battery",
+      "primaryValue": "4832 میلی‌آمپر ساعت",
+      "secondaryValue": "لیتیوم‌ یونی",
+      "desktopIcon": {
+       "name": "mobile-spec4-d",
+       "id": "6a4e09911a28e314b5d0d42d",
+       "fileName": "mobile-spec4-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec4-d-1",
+       "id": "6a4e09911a28e314b5d0d42f",
+       "fileName": "mobile-spec4-d-1"
+      }
+     }
+    ],
+    "minPrice": 300000000.0,
+    "inStock": true,
+    "isFeatured": false,
+    "brand": {
+     "id": "32450",
+     "title": "اپل",
+     "englishTitle": "Apple",
+     "slug": "apple"
+    },
+    "category": {
+     "id": "1",
+     "title": "گوشی",
+     "englishTitle": "mobile",
+     "slug": "mobile"
+    },
+    "isRecommended": true,
+    "sellerCount": 25
+   },
+   {
+    "id": "164280",
+    "title": "آیفون 18 پرو مکس اپل",
+    "englishTitle": "Apple iPhone 18 Pro Max",
+    "slug": "apple-iphone-18-pro-max",
+    "image": {
+     "id": "6aa1c0fa420fe43083954f70",
+     "alt": "گوشی موبایل آیفون 18 پرو مکس اپل شرابی / Apple iPhone 18 Pro Max",
+     "fileName": "apple-iphone-18-pro-max-burgundy",
+     "preview": "",
+     "width": 1920,
+     "height": 1280
+    },
+    "score": 3.3,
+    "keySpecifications": [
+     {
+      "id": 10061,
+      "title": "help-display",
+      "primaryValue": "6.9 اینچ",
+      "secondaryValue": "1320x2868 پیکسل",
+      "desktopIcon": {
+       "name": "mobile-spec1-d",
+       "id": "6a4e09911a28e314b5d0d421",
+       "fileName": "mobile-spec1-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec1-m",
+       "id": "6a4e09911a28e314b5d0d423",
+       "fileName": "mobile-spec1-m"
+      }
+     },
+     {
+      "id": 10062,
+      "title": "help-camera",
+      "primaryValue": "48/48/48 مگاپیکسل",
+      "secondaryValue": "سلفی 18 مگاپیکسل",
+      "desktopIcon": {
+       "name": "mobile-spec3-d",
+       "id": "6a4e09911a28e314b5d0d425",
+       "fileName": "mobile-spec3-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec3-m",
+       "id": "6a4e09911a28e314b5d0d427",
+       "fileName": "mobile-spec3-m"
+      }
+     },
+     {
+      "id": 10063,
+      "title": "help-expansion",
+      "primaryValue": "12 گیگابایت رم",
+      "secondaryValue": "Apple A20 Pro",
+      "desktopIcon": {
+       "name": "mobile-spec2-d",
+       "id": "6a4e09911a28e314b5d0d429",
+       "fileName": "mobile-spec2-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec2-m",
+       "id": "6a4e09911a28e314b5d0d42b",
+       "fileName": "mobile-spec2-m"
+      }
+     },
+     {
+      "id": 10064,
+      "title": "help-battery",
+      "primaryValue": "دارای شارژ سریع",
+      "secondaryValue": "لیتیوم یونی",
+      "desktopIcon": {
+       "name": "mobile-spec4-d",
+       "id": "6a4e09911a28e314b5d0d42d",
+       "fileName": "mobile-spec4-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec4-d-1",
+       "id": "6a4e09911a28e314b5d0d42f",
+       "fileName": "mobile-spec4-d-1"
+      }
+     }
+    ],
+    "minPrice": 390550000.0,
+    "inStock": true,
+    "isFeatured": false,
+    "brand": {
+     "id": "32450",
+     "title": "اپل",
+     "englishTitle": "Apple",
+     "slug": "apple"
+    },
+    "category": {
+     "id": "1",
+     "title": "گوشی",
+     "englishTitle": "mobile",
+     "slug": "mobile"
+    },
+    "isRecommended": false,
+    "sellerCount": 12
+   },
+   {
+    "id": "146207",
+    "title": "آیفون 17 اپل",
+    "englishTitle": "Apple iPhone 17",
+    "slug": "apple-iphone-17",
+    "image": {
+     "id": "68c07f6a2e4b43cec3e905ee",
+     "alt": "گوشی موبایل اپل آیفون 17 رنگ مشکی نمای پنل جلو و پشت Apple iPhone 17",
+     "fileName": "apple-iphone-17-black-front-and-back-view",
+     "preview": "",
+     "width": 3000,
+     "height": 2000
+    },
+    "score": 4.3,
+    "keySpecifications": [
+     {
+      "id": 10061,
+      "title": "help-display",
+      "primaryValue": "6.3 اینچ",
+      "secondaryValue": "1206x2622 پیکسل",
+      "desktopIcon": {
+       "name": "mobile-spec1-d",
+       "id": "6a4e09911a28e314b5d0d421",
+       "fileName": "mobile-spec1-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec1-m",
+       "id": "6a4e09911a28e314b5d0d423",
+       "fileName": "mobile-spec1-m"
+      }
+     },
+     {
+      "id": 10062,
+      "title": "help-camera",
+      "primaryValue": "48/48 مگاپیکسل",
+      "secondaryValue": "سلفی 18 مگاپیکسل",
+      "desktopIcon": {
+       "name": "mobile-spec3-d",
+       "id": "6a4e09911a28e314b5d0d425",
+       "fileName": "mobile-spec3-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec3-m",
+       "id": "6a4e09911a28e314b5d0d427",
+       "fileName": "mobile-spec3-m"
+      }
+     },
+     {
+      "id": 10063,
+      "title": "help-expansion",
+      "primaryValue": "8 گیگابایت رم",
+      "secondaryValue": "Apple A19",
+      "desktopIcon": {
+       "name": "mobile-spec2-d",
+       "id": "6a4e09911a28e314b5d0d429",
+       "fileName": "mobile-spec2-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec2-m",
+       "id": "6a4e09911a28e314b5d0d42b",
+       "fileName": "mobile-spec2-m"
+      }
+     },
+     {
+      "id": 10064,
+      "title": "help-battery",
+      "primaryValue": "3692 میلی‌آمپر ساعت",
+      "secondaryValue": "لیتیوم‌ یونی",
+      "desktopIcon": {
+       "name": "mobile-spec4-d",
+       "id": "6a4e09911a28e314b5d0d42d",
+       "fileName": "mobile-spec4-d"
+      },
+      "mobileIcon": {
+       "name": "mobile-spec4-d-1",
+       "id": "6a4e09911a28e314b5d0d42f",
+       "fileName": "mobile-spec4-d-1"
+      }
+     }
+    ],
+    "minPrice": 235500000.0,
+    "inStock": true,
+    "isFeatured": false,
+    "brand": {
+     "id": "32450",
+     "title": "اپل",
+     "englishTitle": "Apple",
+     "slug": "apple"
+    },
+    "category": {
+     "id": "1",
+     "title": "گوشی",
+     "englishTitle": "mobile",
+     "slug": "mobile"
+    },
+    "isRecommended": true,
+    "sellerCount": 29
+   }
+  ],
+  "currentPage": 1,
+  "totalPages": 20,
+  "pageSize": 3,
+  "totalCount": 58,
+  "hasPrevious": false,
+  "hasNext": true
+ }
+}
