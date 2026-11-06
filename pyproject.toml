@@ -1,6 +1,6 @@
 [project]
 name = "zoomit-mcp"
-version = "0.1.0"
+version = "0.2.0"
 description = "Unofficial read-only MCP server for Zoomit (zoomit.ir/product, Zoobin): phone, laptop and GPU specs, shop prices in Toman, price history, comparisons."
 readme = "README.md"
 license = "MIT"
