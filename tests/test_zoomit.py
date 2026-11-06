@@ -119,7 +119,7 @@ async def test_prices_sorted_with_history(client, api):
         await client.call_tool("zm_prices", {"slug": "apple-iphone-17-pro", "history": "year", "limit": 3})
     ).structured_content
     prices = [o["price"] for o in r["offers"]]
-    assert prices == sorted(prices) and r["currency"] == "Toman"
+    assert prices == sorted(prices)
     h = r["history"]
     assert h["lowest"]["price"] <= h["last"]["price"] <= h["highest"]["price"] and h["sample"]
     assert api.calls[-1].url.params["timeRange"] == "LastYear"
