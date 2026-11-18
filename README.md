@@ -138,24 +138,6 @@ Category slugs (`mobile`, `laptop`, `vga`) come from `zm_categories`.
 
 All 12 tools are annotated `readOnlyHint: true`.
 
-## How it works
-
-```text
-  AI agent  (Claude, Cursor, Copilot, ...)
-      │
-      │  MCP over stdio
-      ▼
-  zoomit-mcp  (runs on your machine)
-      │
-      │  HTTPS
-      └──────▶  api2.zoomit.ir   catalog (products, prices, categories), editorial (articles)
-```
-
-`zoomit-mcp` runs locally and calls the same public API the zoomit.ir product pages use, with no hosted server in
-between and no API key. Requests go out through a Chrome-impersonating client. It makes at most 4 requests at a
-time with a little jitter, keeps answers for 2 minutes, retries a failed GET up to twice, and only talks to
-`api2.zoomit.ir`. It only reads.
-
 ## Good to know
 
 - **Toman, not Rial.** Every price is Toman as the shops list it. `price_from` is the lowest seller offer; the site's headline "از" price can differ by a little because it uses its own latest chart value.
